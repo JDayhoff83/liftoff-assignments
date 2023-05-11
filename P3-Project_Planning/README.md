@@ -9,9 +9,10 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-* ![Add Recipe Page](/Wireframes/Wireframing of Recipe Log AddRecipePage.png)
+* ![Add Recipe Page](/P3-Project_Planning/Wireframes/Wireframing%20of%20Recipe%20Log%20AddRecipePage.png)
 * ![Landing Page](/Wireframes/Wireframing of Recipe Log LandingPage.png)
 * ![Search Page](/Wireframes/Wireframing of Recipe Log SearchPage.png)
+
 
 ### Project Tracker
 
